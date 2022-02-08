@@ -1,0 +1,10 @@
+.menu-link {
+  color: #dddddd;
+  padding: 0.5rem 1rem;
+}
+
+.menu-link:hover,
+.menu-link.active {
+  color: #ffffff;
+  border-bottom: 2px solid #ffffff;
+}
